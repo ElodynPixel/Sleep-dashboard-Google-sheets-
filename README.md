@@ -1,5 +1,5 @@
 # Sleep-dashboard-Google-sheets-
-Building a dashboard on google sheets 
+Building a dashboard on google sheets  
 I downloaded and imported Sleep efficiency data csv file and cleaned the data after removing empty cells and other formatting.
 After the data has been cleaned and normalized the data looked as follow:
 
